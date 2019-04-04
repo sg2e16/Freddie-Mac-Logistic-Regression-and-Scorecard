@@ -1,0 +1,1 @@
+# Freddie-Mac-Logistic-Regression-and-Scorecard
